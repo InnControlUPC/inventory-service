@@ -1,3 +1,0 @@
-[submodule "inventory-service"]
-	path = inventory-service
-	url = https://github.com/InnControlUPC/inncontrol-backend.git
