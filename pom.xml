@@ -8,11 +8,11 @@
         <version>3.3.0</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com_inncontrol_platform</groupId>
-    <artifactId>inventory-microservices</artifactId>
+    <groupId>com.github.inncontrol</groupId>
+    <artifactId>inventory-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>inventory-microservices</name>
-    <description>inventory-microservices</description>
+    <name>inventory-service</name>
+    <description>inventory-service</description>
     <url/>
     <licenses>
         <license/>
