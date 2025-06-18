@@ -14,9 +14,9 @@ services:
       retries: 5
 
   inventory-app:
-    build: .
+    build: ./
     ports:
-      - "8080:8080"
+      - "8077:8077"
     depends_on:
       mysql-inventory:
         condition: service_healthy
